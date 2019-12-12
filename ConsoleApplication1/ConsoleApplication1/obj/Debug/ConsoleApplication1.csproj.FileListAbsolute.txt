@@ -1,6 +1,0 @@
-C:\ppo\39590\Automat\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\ppo\39590\Automat\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\ppo\39590\Automat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
-C:\ppo\39590\Automat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
-C:\ppo\39590\Automat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\ppo\39590\Automat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
